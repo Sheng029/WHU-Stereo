@@ -1,5 +1,5 @@
 # WHU-Stereo
-This repository contains:
+This repository contains the dataset and evaluation code proposed by the paper "WHU-Stereo: A Challenging Benchmark for Stereo Matching of High-Resolution Satellite Images", which has been published in IEEE Transactions on Geoscience and Remote Sensing. It includes:
 
 I. A large-scale dataset named WHU-Stereo for stereo matching of high-resolution satellite imagery.
 
